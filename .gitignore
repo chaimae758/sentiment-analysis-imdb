@@ -1,0 +1,10 @@
+# Environnement virtuel (trop lourd pour GitHub)
+env/
+projet_sentiments/env/
+__pycache__/
+*.pyc
+
+# Fichiers système
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
